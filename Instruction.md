@@ -1,4 +1,17 @@
 # Инстркукция по работе с git
+1. Задать имя и почту
+ * git config user "name"
+ * git contfig user. email "mail@m.ru"
+2. Создать репозиторий
+ * git init
+3. Работа с репозиторием
+  1. Работа с файлами
+  * git add
+  * git commit
+  2. Смотреть состояние репозитория:
+   * git status
+   * git log
+   * git diff
 
 # Список основных команд
 
