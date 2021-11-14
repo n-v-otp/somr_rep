@@ -81,6 +81,7 @@
   Создает новую ветку с именем branch_name
 
 * git checkout branch_name
+
   Перемещает на ветку branch_name
 
 # Слияние веток и решение конфликтов
