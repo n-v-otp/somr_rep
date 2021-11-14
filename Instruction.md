@@ -7,11 +7,15 @@
 * git config user.name
 * git config user.email
 
+*Можно прописать name и email Локально:*
+* git config --local user.name
+* git config --local user.email
+
 # Создание "сохранений"
 # Инстркукция по работе с git
 1. Задать имя и почту
  * git config user "name"
- * git contfig user. email "mail@m.ru"
+ * git config user. email "mail@m.ru"
 2. Создать репозиторий
  * git init
 3. Работа с репозиторием
